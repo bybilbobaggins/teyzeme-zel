@@ -21,11 +21,13 @@ zeynepbirthday
       border-radius: 15px;
       box-shadow: 0 0 10px gray;
     }
-    video {
-      width: 90%;
-      max-width: 600px;
-      margin-top: 20px;
-    }
+      <iframe width="560" height="315" 
+src="https://www.youtube.com/embed/eLTjOI2le9w" 
+title="Teyzeme Özel Video" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+    
   </style>
 </head>
 <body>
