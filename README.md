@@ -1,2 +1,45 @@
 # teyzemeözel
 zeynepbirthday
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Canım Teyzeme</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #ffe6f0;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      color: #d63384;
+    }
+    img {
+      max-width: 300px;
+      margin: 10px;
+      border-radius: 15px;
+      box-shadow: 0 0 10px gray;
+    }
+    video {
+      width: 90%;
+      max-width: 600px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Doğum Günün Kutlu Olsun Canım Teyzem! 🎂🎈</h1>
+  <p>Senin gibi güzel kalpli bir insanı tanımak bir ayrıcalık. İyi ki varsın, iyi ki doğdun! ❤️</p>
+
+  <h2>Birlikte Geçirdiğimiz Güzel Anlar 📸</h2>
+  <img src="fotograf1.jpg" alt="Fotoğraf 1">
+  <img src="fotograf2.jpg" alt="Fotoğraf 2">
+
+  <h2>Senin İçin Küçük Bir Video 🎥</h2>
+  <video controls>
+    <source src="video.mp4" type="video/mp4">
+    Tarayıcınız video etiketini desteklemiyor.
+  </video>
+</body>
+</html>
