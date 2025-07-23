@@ -1,2 +1,2 @@
-# teyzeme-zel
+# teyzemeözel
 zeynepbirthday
