@@ -1,5 +1,3 @@
-# teyzemeözel
-zeynepbirthday
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -21,13 +19,11 @@ zeynepbirthday
       border-radius: 15px;
       box-shadow: 0 0 10px gray;
     }
-      <iframe width="560" height="315" 
-src="https://www.youtube.com/embed/eLTjOI2le9w" 
-title="Teyzeme Özel Video" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
-    
+    iframe {
+      margin-top: 20px;
+      box-shadow: 0 0 10px gray;
+      border-radius: 10px;
+    }
   </style>
 </head>
 <body>
@@ -39,9 +35,11 @@ allowfullscreen></iframe>
   <img src="fotograf2.jpg" alt="Fotoğraf 2">
 
   <h2>Senin İçin Küçük Bir Video 🎥</h2>
-  <video controls>
-    <source src="video.mp4" type="video/mp4">
-    Tarayıcınız video etiketini desteklemiyor.
-  </video>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/eLTjOI2le9w" 
+    title="Teyzeme Özel Video" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 </body>
 </html>
